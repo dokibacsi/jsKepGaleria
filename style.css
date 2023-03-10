@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #bfb37a;
+    padding: 0;
+    margin: 0;
+}
+
+article{
+    background-color: rgb(255, 255, 255, 0.75);
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;  
+}
+
+#fokep{
+    display: grid;   
+    grid-template-columns: 1fr 5fr 1fr;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+#fokep img{
+    border: 1px solid black;
+    width: 100%;
+}
+
+.kepek{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding: 10px;
+    gap: 10px;
+}
+
+.kepek img{
+    width: 100%;
+    border: 2px solid black;
+}

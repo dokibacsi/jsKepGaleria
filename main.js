@@ -1,7 +1,7 @@
 window.addEventListener("load", () => {
   const CICASLISTA = [
     {
-      eleresiUt: ".../kepek/bagrol.jpg",
+      eleresiUt: "./kepek/bagrol.jpg",
       nev: "DJ Bagrol"
     },
     {

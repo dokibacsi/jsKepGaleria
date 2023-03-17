@@ -1,35 +1,35 @@
 window.addEventListener("load", () => {
   const CICASLISTA = [
     {
-      eleresiUt: "../kepek/bagrol.jpg",
+      eleresiUt: ".../kepek/bagrol.jpg",
       nev: "DJ Bagrol"
     },
     {
-      eleresiUt: "../kepek/climo.jpg",
+      eleresiUt: ".../kepek/climo.jpg",
       nev: "DJ Climo"
     },
     {
-      eleresiUt: "../kepek/djkaka.jpg",
+      eleresiUt: ".../kepek/djkaka.jpg",
       nev: "DJ KAKA"
     },
     {
-      eleresiUt: "../kepek/klimon.jpg",
+      eleresiUt: ".../kepek/klimon.jpg",
       nev: "DJ Klimon"
     },
     {
-      eleresiUt: "../kepek/knassix.jpg",
+      eleresiUt: ".../kepek/knassix.jpg",
       nev: "DJ Knassix"
     },
     {
-      eleresiUt: "../kepek/malos.jpg",
+      eleresiUt: ".../kepek/malos.jpg",
       nev: "DJ Malos"
     },
     {
-      eleresiUt: "../kepek/przemooo.jpg",
+      eleresiUt: ".../kepek/przemooo.jpg",
       nev: "DJ Przemooo"
     },
     {
-      eleresiUt: "../kepek/virgo.jpg",
+      eleresiUt: ".../kepek/virgo.jpg",
       nev: "DJ Virgo Nightbasse"
     },
   ];
